@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "add-user-in-DB",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
